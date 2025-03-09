@@ -1,0 +1,16 @@
+tensorflow
+gdown
+openpyxl
+streamlit
+numpy==1.26.3
+pandas==2.1.4
+pillow==10.2.0
+nltk
+gensim
+scikit-learn
+transformers
+tensorflow-hub
+tensorflow-text
+
+
+
